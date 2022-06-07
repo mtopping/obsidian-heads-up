@@ -1,0 +1,8 @@
+{
+  "id": "obsidian-heads-up",
+  "name": "Obsidian Heads Up",
+  "description": "A simple plugin for scaling headings up or down, e.g. H2 -&gt; H3",
+  "author": "Micah Topping",
+  "minAppVersion": "0.11.0",
+  "version": "0.0.1"
+}
